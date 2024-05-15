@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans';
+    overflow-x: hidden;
+}
+
+header{
+    background-image: linear-gradient(to right, skyblue, #6ae944);
+}
+
+.carousel-item img{
+    max-width: 100%; /* Asegura que no sean más anchos que su contenedor */
+    height: auto;
+}
+
+.parrafo1{
+    color: #fd007f;
+}
+
+.parrafo2{
+    color: #e78104;
+}
+.navbar{
+    font-family: monospace;
+}
+.parrafo3{
+    color: black;
+}
